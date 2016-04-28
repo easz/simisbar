@@ -24,4 +24,8 @@ Zubereitung
     Die Kakaobutter zuerst schmelzen lassen und dann gemeinsam mit den anderen Zutaten in einen Behälter geben und glatt mixen.
     Die Glasur gebt ihr nun über euren Brownie Teig und stellt das ganze für einige Stunden in den Kühlschrank, bis die Schokoglasur fest ist. Die Brownies halten sich im Kühlschrank eine gute Woche.
     
-[Spargel Ei Salat](photo/DSC_1032.JPG)
+[Spargel Eiersalat](photo/DSC_1032.JPG)
+
+[Frühlingszwiebelkuchen](photo/DSC_1034.JPG)
+
+[gedämpfte Eier](photo/DSC_1035.JPG)
