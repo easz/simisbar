@@ -1,6 +1,6 @@
-[Rohkostvegankuchen](photo/DSC_1033.JPG)
+![Rohkostvegankuchen](photo/DSC_1033.JPG)
 
-Zutaten für den Boden
+    Zutaten für den Boden
     150 g Medjool Datteln (entsteint)
     300 g Walnüsse
     100 g Rosinen
@@ -8,24 +8,23 @@ Zutaten für den Boden
     1/2 TL Vanillepulver
     5 EL Agavensirup
 
-Zubereitung
-
-    Nüsse und Rosinen in eine geeignete Küchenmaschine geben und gut mixen. Dann einfach alle weiteren Zutaten bis auf de Agavensirup mixen. Am Ende den Agavensirup zu geben.
+    Zubereitung
+    Nüsse und Rosinen in eine geeignete Küchenmaschine geben und gut mixen. 
+    Dann einfach alle weiteren Zutaten bis auf de Agavensirup mixen. Am Ende den Agavensirup zu geben.
     Nun gebt ihr den Teig in eine geeignete Form die ihr mit Backpapier auslegt und drückt ihn gut fest.
 
-Zutaten für die Glasur
-
+    Zutaten für die Glasur
     130 g Agavendicksaft oder ein anderes Süßungsmittel eurer Wahl
     40 g Kakaopulver
     1 kleine Tasse (Kaffeetasse)) Kakaobutter im Wasserbad geschmolzen
 
-Zubereitung
-
+    Zubereitung
     Die Kakaobutter zuerst schmelzen lassen und dann gemeinsam mit den anderen Zutaten in einen Behälter geben und glatt mixen.
-    Die Glasur gebt ihr nun über euren Brownie Teig und stellt das ganze für einige Stunden in den Kühlschrank, bis die Schokoglasur fest ist. Die Brownies halten sich im Kühlschrank eine gute Woche.
+    Die Glasur gebt ihr nun über euren Brownie Teig und stellt das ganze für einige Stunden in den Kühlschrank,
+    bis die Schokoglasur fest ist. Die Brownies halten sich im Kühlschrank eine gute Woche.
     
-[Spargel Eiersalat](photo/DSC_1032.JPG)
+![Spargel Eiersalat](photo/DSC_1032.JPG)
 
-[Frühlingszwiebelkuchen](photo/DSC_1034.JPG)
+![Frühlingszwiebelkuchen](photo/DSC_1034.JPG)
 
-[gedämpfte Eier](photo/DSC_1035.JPG)
+![gedämpfte Eier](photo/DSC_1035.JPG)
