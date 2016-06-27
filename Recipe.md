@@ -1,4 +1,4 @@
-Rohkostvegankuchen![Rohkostvegankuchen](photo/DSC_1033.JPG =250x)
+Rohkostvegankuchen![Rohkostvegankuchen](photo/DSC_1033.JPG =250px)
 
     Zutaten für den Boden
     150 g Medjool Datteln (entsteint)
@@ -23,8 +23,8 @@ Rohkostvegankuchen![Rohkostvegankuchen](photo/DSC_1033.JPG =250x)
     Die Glasur gebt ihr nun über euren Brownie Teig und stellt das ganze für einige Stunden in den Kühlschrank,
     bis die Schokoglasur fest ist. Die Brownies halten sich im Kühlschrank eine gute Woche.
     
-Spargel Eiersalat![Spargel Eiersalat](photo/DSC_1032.JPG =250x)
+Spargel Eiersalat![Spargel Eiersalat](photo/DSC_1032.JPG =250px)
 
-Frühlingszwiebelkuchen![Frühlingszwiebelkuchen](photo/DSC_1034.JPG =250x)
+Frühlingszwiebelkuchen![Frühlingszwiebelkuchen](photo/DSC_1034.JPG =250px)
 
-gedämpfte Eier![gedämpfte Eier](photo/DSC_1035.JPG =250x)
+gedämpfte Eier![gedämpfte Eier](photo/DSC_1035.JPG =250px)
