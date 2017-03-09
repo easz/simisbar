@@ -1,4 +1,5 @@
 #### Rohkostvegankuchen 
+
 <img src="photo/DSC_1033.JPG" width="300px"/>
 
     Zutaten für den Boden
@@ -33,31 +34,23 @@
 #### gedämpfte Eier 
 <img src="photo/DSC_1035.JPG" width="300px"/>
 
-#### 
 <img src="photo/DSC_1156.JPG" width="300px"/>
 
-#### 
 <img src="photo/DSC_1157.JPG" width="300px"/>
 
-#### 
 <img src="photo/DSC_1158.JPG" width="300px"/>
 
-#### 
 <img src="photo/DSC_1074.JPG" width="300px"/>
 
-#### 
 <img src="photo/DSC_1536.JPG" width="300px"/>
 
-#### 
 <img src="photo/DSC_1539.JPG" width="300px"/>
 
-#### 
 <img src="photo/DSC_1553.JPG" width="300px"/>
 
-#### 
 <img src="photo/DSC_1554.JPG" width="300px"/>
 
-#### 
 <img src="photo/DSC_1574.JPG" width="300px"/>
 
-    
+#### Kimchi pancake + Spinat
+<img src="photo/DSC_1720.JPG" width="300px"/>    
