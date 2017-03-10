@@ -2,7 +2,7 @@
 layout: post
 title: Rohkost Vegan Kuchen
 description: 
-image: assets/posts/photos/DSC_1033.JPG
+image: assets/photos/DSC_1033.JPG
 ---
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
