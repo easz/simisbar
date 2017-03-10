@@ -1,6 +1,3 @@
 [submodule "theme/forty-jekyll-theme"]
 	path = theme/forty-jekyll-theme
 	url = https://github.com/easz/forty-jekyll-theme
-[submodule "theme/karna"]
-	path = theme/karna
-	url = https://github.com/sharu725/karna
