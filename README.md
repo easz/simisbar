@@ -7,3 +7,9 @@
  _____| ||   | | ||_|| ||   |       _____| |  | |_|   ||   _   ||   |  | |
 |_______||___| |_|   |_||___|      |_______|  |_______||__| |__||___|  |_|
 </pre>
+
+ - posts/ contains posts and pages
+ - photos/ contains photos and images
+ - theme/ contains themes and the web pages are generated locally in theme folder
+ - docs/ contains generated web pages
+ - build_docs.sh is the build script
