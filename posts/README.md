@@ -1,3 +1,0 @@
-# simisbar
-
-[Recipe](Recipe.md)
