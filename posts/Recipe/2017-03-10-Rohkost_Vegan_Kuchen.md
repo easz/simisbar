@@ -2,6 +2,7 @@
 layout: post
 title: Rohkost Vegan Kuchen
 description: 
+excerpt: 
 image: assets/photos/DSC_1033.JPG
 image_thumbnail: assets/photos/thumbnails/DSC_1033.JPG
 ---

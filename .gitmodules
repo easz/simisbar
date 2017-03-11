@@ -1,3 +1,8 @@
 [submodule "theme/forty-jekyll-theme"]
 	path = theme/forty-jekyll-theme
 	url = https://github.com/easz/forty-jekyll-theme
+	branch = master
+[submodule "theme/treat-jekyll-template"]
+	path = theme/treat-jekyll-template
+	url = https://github.com/easz/treat-jekyll-template
+	branch = master
