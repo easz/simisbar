@@ -3914,3 +3914,11 @@
 			opacity: 1;
 			visibility: visible;
 		}
+
+  div.pagination {
+    text-align: center ; 
+    margin: 50px;
+  }
+  span.page_number {
+    margin:10px;
+  }
