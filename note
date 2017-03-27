@@ -1,0 +1,5 @@
+# usual photos
+sips -Z 1556 X.jpg 
+
+# pht=oto thumbnails
+sips -Z 640 Z.jpg --out thumbnails
