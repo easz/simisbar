@@ -1,0 +1,4 @@
+---
+title: Yoga
+layout: page
+---

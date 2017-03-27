@@ -8,8 +8,9 @@
 |_______||___| |_|   |_||___|      |_______|  |_______||__| |__||___|  |_|
 </pre>
 
- - posts/ contains posts and pages
+ - posts/ contains posts (e.g. recipes)
+ - pages/ contains generic pages
  - assets/ contains photos and images
  - theme/ contains themes and the web pages are generated locally in theme folder
- - docs/ contains generated web pages
+ - docs/ contains automatically generated web pages
  - build_docs.sh is the build script
